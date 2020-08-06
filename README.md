@@ -7,6 +7,8 @@
   
   ## Junior Embedded SW Engineer
   - Linux, C, Image Proccesing, Audio Codec, ...
+  
+  [![Kim-svadoz's github stats](https://github-readme-stats.vercel.app/api?username=kim-svadoz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kim-svadoz/kim-svadoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
