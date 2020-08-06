@@ -5,7 +5,7 @@
   
  </div>
   
-  ## Junior Embedded SW Engineer
+  ## Junior Embedded SW Engineer 😄
   - Linux, C, Image Proccesing, Audio Codec, ...
   
   [![Kim-svadoz's github stats](https://github-readme-stats.vercel.app/api?username=kim-svadoz)](https://github.com/anuraghazra/github-readme-stats)
