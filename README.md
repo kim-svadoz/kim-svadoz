@@ -6,7 +6,7 @@
  </div>
   
   ## Junior Embedded SW Engineer 😄
-  - Linux, C, Image Proccesing, Audio Codec, ...
+  - Linux, Kernel, C/C++, Image Proccesing, Audio Codec, ...
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://coder-in-war.tistory.com/)](https://coder-in-war.tistory.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdghehfdl@gmail.com)](mailto:dhkdghehfdl@gmail.com)
   
