@@ -3,11 +3,6 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-svadoz%2Fhit-counter)](https://hits.seeyoufarm.com)	
   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl)](https://solved.ac/dhkdghehfdl)
-
-
-  
  </div>
   
   ## Junior SW Developer 😄
@@ -17,6 +12,8 @@
   
   
   [![Kim-svadoz's github stats](https://github-readme-stats.vercel.app/api?username=kim-svadoz&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl)](https://solved.ac/dhkdghehfdl)
 <!--
 **kim-svadoz/kim-svadoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
