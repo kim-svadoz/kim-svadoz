@@ -39,10 +39,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl)](https://solved.ac/dhkdghehfdl)
 
 
-
- # 더 열심히, 더 높은 곳으로
- # ​:fire:​​:fire:​​:fire:​​:fire:​​:fire:​ OLLAGAZA ​:fire:​​:fire:​​:fire:​​:fire:​​:fire:​​:fire:​
- 
 <!--
 **kim-svadoz/kim-svadoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
