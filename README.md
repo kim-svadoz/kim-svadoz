@@ -23,8 +23,6 @@
   </div>
   <br />
   
-  🌱 I’m currently learning `SpringBoot & JPA`<br />
-  🌱 I’m currently learning `Spring Security`<br />
   
   <br />
   
