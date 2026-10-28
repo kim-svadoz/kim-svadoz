@@ -70,6 +70,7 @@
     </td></tr>
     <tr><td nowrap><b>AI</b></td><td>
       <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Codex-000000?style=flat-square"/>
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
     </td></tr>
     <tr><td nowrap><b>Test & Build</b></td><td>
