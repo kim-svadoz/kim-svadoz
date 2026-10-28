@@ -1,10 +1,8 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center">Kim Sunghyun</h1>
+<p align="center"><b>Backend Engineer</b><br />Building large-scale data pipelines and platforms</p>
 
-# Backend Developer 😄
-  <div align="center">
-  <h3> 🛠 Tech Stack 🛠 </h3>
-  </div>
-  
+<h3 align="center">Tech Stack</h3>
+
   <div align="center">
   <table>
     <tr><td nowrap><b>Language</b></td><td>
@@ -88,26 +86,7 @@
     </td></tr>
   </table>
   </div>
-  <br />
-  
-  
-  <br />
-  
-  [![Solved.ac
-프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl)](https://solved.ac/dhkdghehfdl)
 
-
-<!--
-**kim-svadoz/kim-svadoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://solved.ac/dhkdghehfdl"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl" alt="solved.ac profile" /></a>
+</p>
