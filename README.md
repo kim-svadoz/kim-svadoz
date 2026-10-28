@@ -1,11 +1,10 @@
-<h1 align="center">Kim Sunghyun</h1>
-<p align="center"><b>Backend Engineer</b><br />Building large-scale data pipelines and platforms</p>
+# Kim Sunghyun
 
-<br />
+**Backend Engineer**  
+Building large-scale data pipelines and platforms
 
 ## Tech Stack
 
-  <div align="center">
   <table>
     <tr><td nowrap><b>Language</b></td><td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -87,8 +86,7 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square"/>
     </td></tr>
   </table>
-  </div>
 
-<p align="center">
+<p>
   <a href="https://solved.ac/dhkdghehfdl"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdghehfdl" alt="solved.ac profile" /></a>
 </p>
