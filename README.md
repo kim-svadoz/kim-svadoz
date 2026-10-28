@@ -1,7 +1,9 @@
 <h1 align="center">Kim Sunghyun</h1>
 <p align="center"><b>Backend Engineer</b><br />Building large-scale data pipelines and platforms</p>
 
-<h3 align="center">Tech Stack</h3>
+<br />
+
+## Tech Stack
 
   <div align="center">
   <table>
